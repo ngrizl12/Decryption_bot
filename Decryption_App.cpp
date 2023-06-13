@@ -12,11 +12,11 @@ string pathIn = "C:\\Users\\Max\\source\\repos\\DecriptionApp\\";
 
 //Bot text
 string start_text = "Hi, I'm a bot which can embed or extract messages to/from photos, I use the Quantization Index Modulation (QMI) method for this action. Choose, what do you want to do?";
-// Embed
+// Embedding
 string ask_quantization_embed = "Great, enter the quantization step for embed.";
 string ask_photo_embed = "Great, send photo which you want to embed your text.";
 string ask_open_text = "Great, enter open text for embed.";
-// Extract
+// Extraction
 string ask_photo_extract = "Great, send photo which you want to extract your text. (Bot supported only Png format for extraction)";
 string ask_quantization_extract = "Great, enter the quantization step for extract.";
 
